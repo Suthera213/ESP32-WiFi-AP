@@ -53,7 +53,6 @@ I (27657) esp_netif_lwip: DHCP server assigned IP to a station, IP is: 192.168.4
 
 ## Output
 ```css
----
 
 entry 0x4008064c
 I (27) boot: ESP-IDF v5.0.2-dirty 2nd stage bootloader
